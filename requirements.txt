@@ -1,0 +1,15 @@
+gradio
+scikit-learn==1.6.1
+torch
+torchaudio
+torchvision
+transformers
+biopython
+joblib
+numpy
+requests
+einops
+spaces
+lightgbm
+huggingface_hub
+accelerate
